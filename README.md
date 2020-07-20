@@ -11,7 +11,8 @@ This file includes the game of anagram and Sierpinski as well as helps me build 
     
     
 (2) Sierpinski
-   -> This file draws a picture of Sierpinski Triangle, which was invented by Polish Mathematician Waclaw Sierpinki.
+  
+  -> This file draws a picture of Sierpinski Triangle, which was invented by Polish Mathematician Waclaw Sierpinki.
       
    I used the concept of self-similarity to draw this picture.
       
